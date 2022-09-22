@@ -1,8 +1,8 @@
-# [Corporate UI Dashboard](http://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html?ref=readme-sud) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/corporate-ui-dashboard&text=Check%20Corporate%20UI%20Dashboard%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#corporatedesign%20#html%20https://www.creative-tim.com/product/corporate-ui-dashboard) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
+# [Corporate UI Dashboard](http://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html?ref=readme-cud) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/corporate-ui-dashboard&text=Check%20Corporate%20UI%20Dashboard%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#corporatedesign%20#html%20https://www.creative-tim.com/product/corporate-ui-dashboard) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/corporate-ui-dashboard.svg)](https://github.com/creativetimofficial/corporate-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/corporate-ui-dashboard.svg)](https://github.com/creativetimofficial/corporate-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/684/original/corporate-ui-dashboard.jpg?1663853004)
 
 Most complex and innovative Dashboard Made by [Creative Tim](https://creative-tim.com/). Check our latest Free Bootstrap 5 Dashboard.
 
@@ -18,7 +18,7 @@ You will save a lot of time going from prototyping to full-functional code, beca
 This Free Bootstrap 5 Dashboard is coming with prebuilt design blocks, so the development process is seamless,
 switching from our pages to the real website is very easy to be done.
 
-View [all components here](https://www.creative-tim.com/learning-lab/bootstrap/alerts/corporate-ui-dashboard?ref=readme-sud).
+View [all components here](https://www.creative-tim.com/learning-lab/bootstrap/alerts/corporate-ui-dashboard?ref=readme-cud).
 
 **Documentation built by Developers**
 
@@ -61,25 +61,25 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/corporate-ui-dashboard?ref=readme-sud)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/corporate-ui-dashboard?ref=readme-cud)
 
 | HTML |
 | --- |
-| [![Corporate UI Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/450/thumb/opt_sd_free_thumbnail.jpg?1617715816)](http://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html?ref=readme-sud)
+| [![Corporate UI Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/684/thumb/corporate-ui-dashboard.jpg?1663853004)](http://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html?ref=readme-cud)
 
 ## Demo
 
-- [Dashboard page](http://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html?ref=readme-sud)
-- [Sign in page](http://demos.creative-tim.com/corporate-ui-dashboard/pages/sign-in.html?ref=readme-sud)
-- [Sign up page](https://demos.creative-tim.com/corporate-ui-dashboard/pages/sign-up.html?ref=readme-sud)
+- [Dashboard page](http://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html?ref=readme-cud)
+- [Sign in page](http://demos.creative-tim.com/corporate-ui-dashboard/pages/sign-in.html?ref=readme-cud)
+- [Sign up page](https://demos.creative-tim.com/corporate-ui-dashboard/pages/sign-up.html?ref=readme-cud)
 
-[View More](https://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html?ref=readme-sud).
+[View More](https://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html?ref=readme-cud).
 
 ## Quick start
 
 Quick start options:
 
-- Download from [Creative Tim](https://www.creative-tim.com/product/corporate-ui-dashboard?ref=readme-sud).
+- Download from [Creative Tim](https://www.creative-tim.com/product/corporate-ui-dashboard?ref=readme-cud).
 
 ## Terminal Commands
 
@@ -87,7 +87,7 @@ Quick start options:
 2. Navigate to the root / directory and run npm install to install our local dependencies.
 
 ## Documentation
-The documentation for the Corporate UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/corpoate-ui-dashboard?ref=readme-sud).
+The documentation for the Corporate UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/corpoate-ui-dashboard?ref=readme-cud).
 
 ### What's included
 
@@ -123,38 +123,38 @@ At present, we officially aim to support the last two versions of the following 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
 ## Resources
-- [Live Preview](https://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html?ref=readme-sud)
-- [Download Page](https://www.creative-tim.com/product/corporate-ui-dashboard?ref=readme-sud)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/bootstrap/overview/corporate-ui-dashboard?ref=readme-sud)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-sud)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-sud)
+- [Live Preview](https://demos.creative-tim.com/corporate-ui-dashboard/pages/dashboard.html?ref=readme-cud)
+- [Download Page](https://www.creative-tim.com/product/corporate-ui-dashboard?ref=readme-cud)
+- Documentation is [here](https://www.creative-tim.com/learning-lab/bootstrap/overview/corporate-ui-dashboard?ref=readme-cud)
+- [License Agreement](https://www.creative-tim.com/license?ref=readme-cud)
+- [Support](https://www.creative-tim.com/contact-us?ref=readme-cud)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/corporate-ui-dashboard/issues)
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Corporate UI Dashboard. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Corporate UI Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/corporate-ui-dashboard?ref=readme-sud).
+1. Make sure that you are using the latest version of the Corporate UI Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/corporate-ui-dashboard?ref=readme-cud).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-sud) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-cud) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2022 [Creative Tim](https://www.creative-tim.com?ref=readme-sud)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sud)
+- Copyright 2022 [Creative Tim](https://www.creative-tim.com?ref=readme-cud)
+- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-cud)
 
 ## Useful Links
 
-- [More products](https://www.creative-tim.com/templates?ref=readme-sud) from Creative Tim
+- [More products](https://www.creative-tim.com/templates?ref=readme-cud) from Creative Tim
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-sud) from Creative Tim
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-cud) from Creative Tim
 
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-sud) (earn money)
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-cud) (earn money)
 
 ##### Social Media
 
